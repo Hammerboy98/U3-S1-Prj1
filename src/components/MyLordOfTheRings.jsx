@@ -36,7 +36,7 @@ class MyLordOfTheRings extends Component {
 
   render() {
     if (this.state.isError) {
-      return <div>Something went wrong. Please try again later.</div>;
+      return <div style={{backgroundColor:"red"}}>Something went wrong. Please try again later.</div>;
     }
 
     if (this.state.isLoading) {

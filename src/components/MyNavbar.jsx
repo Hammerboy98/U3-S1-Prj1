@@ -107,8 +107,8 @@ class MyNavbar extends Component {
               </div>
             </div>
             <div>
-              <i className="bi bi-grid icons"></i>
-              <i className="bi bi-grid-3x3 icons"></i>
+              <i className="bi bi-grid icons text-white"></i>
+              <i className="bi bi-grid-3x3 icons text-white"></i>
             </div>
           </div>
         </div>
